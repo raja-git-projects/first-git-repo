@@ -7,4 +7,7 @@ Changes in branch1
 
 # 1st change in branch 2
 
+
 # Changes in line 10 in branch 1
+
+# Changes in line 10 in master branch
